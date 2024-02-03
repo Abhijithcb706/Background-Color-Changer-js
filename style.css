@@ -1,0 +1,28 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  button {
+    font-size: 12px;
+    padding: 30px;
+    cursor: pointer;
+    border-radius:25px;
+   border-style: dotted ;
+   border-color: rgba(0, 0, 0, 0.137);
+    
+    box-shadow: 1px 10px 50px transparent;
+    font-size: 20px;
+  }
+p{
+  font-size: 15px;
+  font-family: monospace;
+}
